@@ -1,1 +1,4 @@
 This is my main file. Is not even code, just a file. I'm going to learn to use Git properly with this file.
+
+/* ---------- */
+I am an asshole and I'm changing this file without telling anyone!!!
