@@ -1,7 +1,4 @@
 This is a file of a part of a project that I did on my own. I worked on it for months and now I'll make a pull request...
 
-<<<<<<< HEAD
 /* ----------------------- A change to cause a conflict ------------------------ */
-=======
 /* ----------------------- I <3 conflict ------------------------ */
->>>>>>> 65eaeeb32aff691990cb380ab1e2b541e4c6e909
