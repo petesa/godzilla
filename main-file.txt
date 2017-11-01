@@ -1,5 +1,4 @@
 This is my main file. Is not even code, just a file. I'm going to learn to use Git properly with this file.
 
 /* ------------- */
-I'm going to cause some trouble over here...
-Little did I know that someone had made changes to this file...
+This is some work I DO want to commit
