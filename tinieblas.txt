@@ -1,1 +1,3 @@
 I'm doing some changes without telling anyone because what's the worst that could happen, right?
+This is a new file to try this whole mergin branches thing. Let's see how it works. Imma gonna create a brand new
+conflict for youse guys upstream. Watch out!
